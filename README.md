@@ -39,7 +39,7 @@ Every scroll animation is scrubbed: stop and it stops, scroll back and it revers
 | --- | --- | --- |
 | [Grizon AI Platform](https://app.grizonai.com/) | Multi-agent AI platform — document chat, RAG-powered search, agents that handle multi-step work end to end | 2026 |
 | [AdmissionSeason](https://admissionseason.com/) | College discovery — search, compare and shortlist colleges, predict admission chances | 2025 |
-| [Urban Outfit](https://urbanoutfitshop.com/) | Fashion e-commerce — size/colour variants, user accounts, UPI/COD checkout | 2025 |
+| [Catelog](https://agentic-marketplace-chi.vercel.app/) | Marketplace for AI agents — MCP-native discovery, hire & pay-per-run | 2026 |
 | [Wolf Nutrition](https://www.wolfnutrition.store/) | Ayurvedic wellness store — curated bundles, prepaid checkout, WhatsApp order support | 2025 |
 | [CT VMS](https://play.google.com/store/apps/details?id=com.ctgroup.gatepassapp&hl=en_IN) | Campus visitor gate-pass system — 8+ role access control, live entry records, Raspberry Pi gates | 2025 |
 
